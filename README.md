@@ -1,3 +1,5 @@
+# XTTSv2 did that already, so archiving this
+
 # HiFi-GAN-TorToiSe
 Replace the diffusion + vocoder by a single GAN
 
